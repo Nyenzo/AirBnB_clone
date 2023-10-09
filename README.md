@@ -1,1 +1,5 @@
 # AirBnB_clone
+# This file lists all contributors to the repository.
+
+David Ihaji <davidihaj@gmail.com>
+Peter Nyenzo <nyenzoisabwa@gmail.com>
